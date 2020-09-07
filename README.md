@@ -1,1 +1,1 @@
-# EpaTrainig_Java_2020
+# EpamTraining_Java_2020
